@@ -1,0 +1,5 @@
+[
+    { "id": 1, "distance": "5 km", "fare": "rs 70" },
+    { "id": 2, "distance": "10 km", "fare": "rs 120" },
+    { "id": 3, "distance": "15 km", "fare": "rs 360" }
+]
